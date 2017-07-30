@@ -2,7 +2,7 @@
 // Should complete all steps needed to load portify.js
 // Also mutates the google listen.js file to selectively block images
 
-window.portifyURL = 'https://rawgit.com/jordam/Portify.JS/master';
+window.portifyURL = 'https://rawgit.com/jwkicklighter/Portify.JS/master';
 
 function insertBeforeLastOccurrence(strToSearch, strToFind, strToInsert) {
     var n = strToSearch.lastIndexOf(strToFind);
